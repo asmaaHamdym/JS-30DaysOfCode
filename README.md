@@ -4,4 +4,4 @@ we are using just vanilla Js no frameworks!
 
 | Day | Description | Link | Live site |
 | --- | ----------- | ---- | --------- |
-| 1   |Drum Kit | <a href="https://github.com/asmaaHamdym/JS-30DaysOfCode/tree/main/Day01-JavaScript%20Drum%20Kit">Day1</a>
+| 1   |Drum Kit | <a href="https://github.com/asmaaHamdym/JS-30DaysOfCode/tree/main/Day01-JavaScript%20Drum%20Kit">Day1</a> |<a href="https://drumsfortheking.netlify.app/">Site</a>
