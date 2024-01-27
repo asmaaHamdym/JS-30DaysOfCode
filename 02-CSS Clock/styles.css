@@ -36,12 +36,19 @@ body {
 
 .hand {
   width: 50%;
-  height: 6px;
+  height: 4px;
   background: black;
   position: absolute;
   top: 50%;
+  border-radius: 12px;
   transform-origin: 100%;
   transform: rotate(90deg);
   transition: all 0.05s;
   transition-timing-function: cubic-bezier(0, 2.55, 0.19, 2.12);
+}
+.hour-hand,
+.min-hand {
+  background: #c3bdfd;
+  height: 8px;
+  border-radius: 22px;
 }
