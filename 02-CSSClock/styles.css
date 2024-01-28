@@ -48,7 +48,10 @@ body {
 }
 .hour-hand,
 .min-hand {
-  background: #c3bdfd;
+  /* background: #c3bdfd; */
   height: 8px;
   border-radius: 22px;
+}
+.min-hand {
+  height: 6px;
 }
